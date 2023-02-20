@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pareekharsh
-- 👀 I’m interested in Social Media Marketing, cryptocurrencies, python programming, etc.
-- 🌱 I’m currently learning python programming
-- 💞️ I’m looking to collaborate on social media marketing or python programming projects
+- 👀 I’m interested in Java Programming, Blockchain, CyberSecurity etc.
+- 🌱 I’m currently learning Java programming
+- 💞️ I’m looking forward to seek a position of a Java Developer.
 - 📫 You can contact me here - pareekharsh55@gmail.com
 
 <!---
